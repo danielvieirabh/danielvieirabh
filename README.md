@@ -35,12 +35,12 @@
 ## 📊 Estatísticas
 
 <div align="left">
-  <img src="https://github-readme-stats.vercel.app/api?username=Danzinxit&show_icons=true&count_private=true&theme=omni&hide_border=false" height="150" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=Danzinxit&layout=compact&langs_count=5&theme=omni&hide_border=false" height="150" />
+  <img src="https://github-readme-stats.vercel.app/api?username=danielvieirabh&show_icons=true&count_private=true&theme=omni&hide_border=false" height="150" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=danielvieirabh&layout=compact&langs_count=5&theme=omni&hide_border=false" height="150" />
 </div>
 
 <div align="left">
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=Danzinxit&theme=redical&area=true&radius=16" height="300" />
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=danielvieirabh&theme=redical&area=true&radius=16" height="300" />
 </div>
 
 ---
