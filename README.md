@@ -28,7 +28,7 @@
 <div align="center">
   <br/>
   <a href="https://skillicons.dev">
-    <img src="https://skillicons.dev/icons?i=java,cs,php,js,ts,react,mysql,postgres,aws,tailwind,supabase,androidstudio,git,github,vscode&perline=15&theme=dark" alt="My Skills" />
+    <img src="https://skillicons.dev/icons?i=java,cs,php,js,ts,react,mysql,postgres,aws,tailwind,supabase,androidstudio&perline=15&theme=dark" alt="My Skills" />
   </a>
 </div>
 
