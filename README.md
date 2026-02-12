@@ -17,7 +17,7 @@
 
 ### 🧑‍💻 Sobre o Daniel
 
-- 💼 Atualmente focado em **desenvolvimento Full Stack** (PHP/Laravel & C#/.NET) na TWT INFO.
+- 💼 Atualmente focado em **desenvolvimento Full Stack** (PHP/Laravel| React.JS) na TWT INFO.
 - 🎓 Aprofundando conhecimentos na faculdade de **Análise e Desenvolvimento de Sistemas**.
 - 🎯 Objetivo: Criar soluções escaláveis e inovadoras que resolvam problemas reais.
 
