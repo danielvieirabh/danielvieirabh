@@ -18,7 +18,7 @@
 
 <div align="left">
   <a href="https://skillicons.dev">
-    <img src="https://skillicons.dev/icons?i=java,js,cs,react,php,ts,mysql,azure,tailwind,supabase,androidstudio&perline=12" />
+    <img src="https://skillicons.dev/icons?i=java,js,cs,react,php,ts,mysql,aws,tailwind,supabase,androidstudio&perline=12" />
   </a>
 </div>
 
