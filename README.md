@@ -3,7 +3,7 @@
   <h1>Olá! Eu sou o Daniel</h1>
   
   <p>
-    <b>CEO DE EMPRESA TECHk</b> • Estudante de SI
+    <b>CEO DE EMPRESA TECH</b> • Estudante de SI
   </p>
   
   <a href="#-conecte-se-comigo">
