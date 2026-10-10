@@ -37,7 +37,6 @@
 ---
 
 ### 📊 Dashboard do Desenvolvedor
-[<img width="268" height="300" alt="image" src="https://github.com/user-attachments/assets/56e785ee-55f1-4433-9e29-cdca91bf5cc1" />](https://media1.tenor.com/m/C0fpLvh3DngAAAAd/mr-robot.gif)
 <div align="center">
   <table>
     <tr>
