@@ -37,6 +37,7 @@
 ---
 
 ### 📊 Dashboard do Desenvolvedor
+<img width="268" height="300" alt="image" src="https://github.com/user-attachments/assets/56e785ee-55f1-4433-9e29-cdca91bf5cc1" />
 
 <div align="center">
   <table>
